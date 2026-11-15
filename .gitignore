@@ -1,0 +1,16 @@
+# ROMs e Saves de Nintendo DS (nunca comitar no repositório)
+*.nds
+*.sav
+*.dsv
+
+# Diretórios temporários de compilação e testes
+scratch/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

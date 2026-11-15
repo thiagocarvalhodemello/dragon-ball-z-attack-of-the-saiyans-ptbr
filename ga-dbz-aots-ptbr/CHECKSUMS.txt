@@ -1,0 +1,17 @@
+# ROM base (não incluída)
+CRC32  A9F0B8F9  Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr).nds
+MD5    9c83a44ca1880d813eeb1c968dc6931f  Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr).nds
+SHA1   b5d8ebbc8813db68270ea02f0e581f6005f54736  Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr).nds
+SHA256 e310a165a9fc87f0b20ef31033d7a3c55939609e5923f87cf224b2d898f3e11b  Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr).nds
+
+# Patch distribuído
+CRC32  2144DF1C  DBZ_Attack_of_the_Saiyans_PTBR_v12.bps
+MD5    0bb17a2605fbd5dbf42c6f21e3846bf3  DBZ_Attack_of_the_Saiyans_PTBR.bps
+SHA1   b6623541c4a184e3a24db6e261dceaa476f02b1b  DBZ_Attack_of_the_Saiyans_PTBR.bps
+SHA256 7a8852093c0b41f36f1baea848ee7aa409912d9f37e4db8810737ae6136152ee  DBZ_Attack_of_the_Saiyans_PTBR.bps
+
+# ROM final esperada (não incluída)
+CRC32  212FE116  DBZ_AOTS_PTBR.nds
+MD5    c2bb7c768dca444803a31c51ba8bb248  DBZ_AOTS_PTBR.nds
+SHA1   c3e3bb133e716126be41cd3e21b3965764e0bd9b  DBZ_AOTS_PTBR.nds
+SHA256 c6bda46649afa28160810271494b38e58cc7a2b01633774ab536520268bd4639  DBZ_AOTS_PTBR.nds

@@ -1,0 +1,37 @@
+{
+  "project": "Dragon Ball Z: Attack of the Saiyans PT-BR",
+  "version": "v12",
+  "format": "BPS1",
+  "created_utc": "2026-06-15T13:16:50.175455+00:00",
+  "base_rom": {
+    "display_name": "Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr).nds",
+    "game_code": "BRPE",
+    "size": 134217728,
+    "crc32": "A9F0B8F9",
+    "md5": "9c83a44ca1880d813eeb1c968dc6931f",
+    "sha1": "b5d8ebbc8813db68270ea02f0e581f6005f54736",
+    "sha256": "e310a165a9fc87f0b20ef31033d7a3c55939609e5923f87cf224b2d898f3e11b"
+  },
+  "patch": {
+    "filename": "DBZ_Attack_of_the_Saiyans_PTBR_v12.bps",
+    "size": 3963087,
+    "crc32": "2144DF1C",
+    "md5": "0bb17a2605fbd5dbf42c6f21e3846bf3",
+    "sha1": "b6623541c4a184e3a24db6e261dceaa476f02b1b",
+    "sha256": "7a8852093c0b41f36f1baea848ee7aa409912d9f37e4db8810737ae6136152ee"
+  },
+  "expected_output": {
+    "filename": "DBZ_AOTS_PTBR_v12.nds",
+    "size": 134217728,
+    "crc32": "212FE116",
+    "md5": "c2bb7c768dca444803a31c51ba8bb248",
+    "sha1": "c3e3bb133e716126be41cd3e21b3965764e0bd9b",
+    "sha256": "c6bda46649afa28160810271494b38e58cc7a2b01633774ab536520268bd4639"
+  },
+  "validation": {
+    "applied_patch_to_base": true,
+    "output_matches_v12_byte_for_byte": true,
+    "verified_output_sha256": "c6bda46649afa28160810271494b38e58cc7a2b01633774ab536520268bd4639"
+  },
+  "redistribution": "Patch only; no commercial ROM included."
+}
